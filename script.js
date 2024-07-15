@@ -238,7 +238,22 @@
 // }
 
 // 8
-// Не поняла задачу 
+// function countWords(sentence){
+//     let words = sentence.trim().split(/\s+/);
+//     let wordCount = 0;
+//     let i = 0;
+//     while(i < words.length){
+//         if (words[i] !== ""){
+//             wordCount++;
+//         }
+//         i++;
+//     }
+
+//     return wordCount;
+// }
+// let sentence = "Hello World!";
+// let result = countWords(sentence);
+// console.log(result);
 
 // 9
 // let number = 7;
